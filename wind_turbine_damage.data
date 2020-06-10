@@ -1,0 +1,5 @@
+classes = 2
+train = data/train_turbine_damage.txt
+valid = data/train_turbine_damage.txt
+names = data/turbine_damage.names
+backup = backup_turbine_damage/
